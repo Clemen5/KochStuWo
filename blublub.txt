@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Patzi
-=======
-patzi
->>>>>>> refs/remotes/origin/master
+Patrick Sacher
