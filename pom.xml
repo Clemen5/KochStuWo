@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.2.16.Final</version>
+			<version>5.3.20.Final</version>
 		</dependency>
 
 <!--   !!!!!!           bis zu diesem Schritt gemacht:    !!!!!!!   https://moodle.fh-joanneum.at/mod/lesson/view.php?id=15394&pageid=2864           -->
